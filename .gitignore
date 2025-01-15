@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
 # C extensions
 *.so
 
@@ -170,5 +171,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# models
+# models any models should be uploaded to hugging face
 Phi-3-mini-4k-instruct-fp16.gguf
+base_embedding_model/
+finetuned_embedding_model/
+results/
+tsdae_embedding_model/
