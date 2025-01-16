@@ -177,3 +177,7 @@ base_embedding_model/
 finetuned_embedding_model/
 results/
 tsdae_embedding_model/
+checkpoints/
+mlm/
+model/
+ner_model/
