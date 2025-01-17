@@ -181,3 +181,5 @@ checkpoints/
 mlm/
 model/
 ner_model/
+TinyLlama-1.1B-dpo-qlora/
+TinyLlama-1.1B-qlora/
